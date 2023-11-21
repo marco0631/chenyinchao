@@ -6,8 +6,9 @@
 ## Languages
 <span>
   <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CPP-orange?style=flat-square&logo=c++&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-C-orange?style=flat-square&logo=c++&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-yellow?style=flat-square&logo=typescript" />
 </span>

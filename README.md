@@ -1,7 +1,7 @@
-# chenyinchao
+# Hey, Nice to meet you!
+# 祝你好运，不止今天
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marco0631&show_icons=true&theme=transparent" /> 
-</div>
+🎩 Hi, I'm a full-stack developer from Baise,China🇨🇳🇨🇳🇨🇳. 
 
-
+## Languages
+https://img.shields.io/badge/C-8A2BE2 https://img.shields.io/badge/C++-blue

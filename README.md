@@ -1,10 +1,10 @@
 # Hey, Nice to meet you! 祝你好运，不止今天
 
 ## About me
-💙 Hi, I'm a full-stack developer from Baise,China🇨🇳🇨🇳🇨🇳. \n
-💜 Software engineering major in college. \n
-💚 Over 8 years of work experience. \n
-💛 Strong interest in computer science and artificial intelligence. \n
+💙 Hi, I'm a full-stack developer from Baise,China🇨🇳🇨🇳🇨🇳. <br>
+💜 Software engineering major in college. <br>
+💚 Over 8 years of work experience. <br>
+💛 Strong interest in computer science and artificial intelligence. <br>
 
 ## Languages
 <span>

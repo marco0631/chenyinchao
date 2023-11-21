@@ -1,6 +1,6 @@
-# Hey, Nice to meet you!
-# 祝你好运，不止今天
+# Hey, Nice to meet you! 祝你好运，不止今天
 
+## About me
 🎩 Hi, I'm a full-stack developer from Baise,China🇨🇳🇨🇳🇨🇳. 
 
 ## Languages
@@ -11,5 +11,5 @@
   <img src="https://img.shields.io/badge/-Python-purple?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-pink?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-green?style=flat-square&logo=php&logoColor=white" />
 </span>
